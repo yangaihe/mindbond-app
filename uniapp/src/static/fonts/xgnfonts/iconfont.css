@@ -1,0 +1,179 @@
+@font-face {
+  font-family: "xgn-iconfont"; /* Project id 5062207 */
+  src: url('iconfont.woff2?t=1766905476171') format('woff2'),
+       url('iconfont.woff?t=1766905476171') format('woff'),
+       url('iconfont.ttf?t=1766905476171') format('truetype');
+}
+
+.xgn-iconfont {
+  font-family: "xgn-iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.xgn-duihuan-circle:before {
+  content: "\10132";
+}
+
+.xgn-bindphone:before {
+  content: "\e853";
+}
+
+.xgn-zanting:before {
+  content: "\e65f";
+}
+
+.xgn-lock:before {
+  content: "\e62d";
+}
+
+.xgn-kuaitui:before {
+  content: "\e608";
+}
+
+.xgn-pengyouquan:before {
+  content: "\e62b";
+}
+
+.xgn-zhifubao:before {
+  content: "\e607";
+}
+
+.xgn-bindedphone:before {
+  content: "\e66f";
+}
+
+.xgn-close-circle:before {
+  content: "\e6d9";
+}
+
+.xgn-haibao:before {
+  content: "\ed54";
+}
+
+.xgn-share-circle:before {
+  content: "\e626";
+}
+
+.xgn-download:before {
+  content: "\e63f";
+}
+
+.xgn-fengefu:before {
+  content: "\e684";
+}
+
+.xgn-weixin:before {
+  content: "\e600";
+}
+
+.xgn-tupian:before {
+  content: "\e63e";
+}
+
+.xgn-zhaoxiangji:before {
+  content: "\e663";
+}
+
+.xgn-liked:before {
+  content: "\e86f";
+}
+
+.xgn-zan:before {
+  content: "\e870";
+}
+
+.xgn-naozhong:before {
+  content: "\e890";
+}
+
+.xgn-duihao:before {
+  content: "\e614";
+}
+
+.xgn-kefu:before {
+  content: "\e88f";
+}
+
+.xgn-fanye-left:before {
+  content: "\e61b";
+}
+
+.xgn-shoujihaoma:before {
+  content: "\e62c";
+}
+
+.xgn-mulu:before {
+  content: "\e62a";
+}
+
+.xgn-kuaijin:before {
+  content: "\eb70";
+}
+
+.xgn-bofang:before {
+  content: "\e63a";
+}
+
+.xgn-order:before {
+  content: "\e6b6";
+}
+
+.xgn-yinsi:before {
+  content: "\e6af";
+}
+
+.xgn-playing:before {
+  content: "\e770";
+}
+
+.xgn-fanye-right:before {
+  content: "\eeac";
+}
+
+.xgn-arrow-down:before {
+  content: "\e665";
+}
+
+.xgn-time:before {
+  content: "\e680";
+}
+
+.xgn-arrow-up-bold:before {
+  content: "\e685";
+}
+
+.xgn-dacu:before {
+  content: "\e66a";
+}
+
+.xgn-xiaoxi:before {
+  content: "\e61d";
+}
+
+.xgn-like:before {
+  content: "\e61e";
+}
+
+.xgn-fanhui:before {
+  content: "\e61f";
+}
+
+.xgn-jinru:before {
+  content: "\e621";
+}
+
+.xgn-renzheng:before {
+  content: "\e657";
+}
+
+.xgn-liwu:before {
+  content: "\e697";
+}
+
+.xgn-kecheng:before {
+  content: "\e721";
+}
+

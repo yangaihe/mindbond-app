@@ -1,0 +1,508 @@
+{
+    "pages": [
+        {
+            "path": "pages/listenbook/pages/index/index",
+            "style": {
+                "navigationBarTitleText": "首页",
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/index/index",
+            "style": {
+                "navigationBarTitleText": "今日",
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/login/login",
+            "style": {
+                "navigationBarTitleText": "登录",
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/register/register",
+            "style": {
+                "navigationBarTitleText": "注册"
+            }
+        },
+        {
+            "path": "pages/forget_pwd/forget_pwd",
+            "style": {
+                "navigationBarTitleText": "忘记密码"
+            }
+        },
+        {
+            "path": "pages/customer_service/customer_service",
+            "style": {
+                "navigationBarTitleText": "联系客服",
+                "navigationStyle": "custom"
+            },
+            "auth": true
+        },
+        {
+            "path": "pages/collection/collection",
+            "style": {
+                "navigationBarTitleText": "我的收藏"
+            },
+            "auth": true
+        },
+        {
+            "path": "pages/about/about",
+            "style": {
+                "navigationBarTitleText": "关于我们",
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/book/audiobooks",
+            "style": {
+                "navigationBarTitleText": "听书",
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/book/bookDetail",
+            "style": {
+                "navigationBarTitleText": "听书详情",
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/book/bookroom",
+            "style": {
+                "navigationBarTitleText": "听书房间",
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/book/bookroomHub",
+            "style": {
+                "navigationBarTitleText": "共读营",
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/book/bookroomSharing",
+            "style": {
+                "navigationBarTitleText": "分享房间",
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/book/bootcamp",
+            "style": {
+                "navigationBarTitleText": "我的订阅",
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/book/bootcampAudio",
+            "style": {
+                "navigationBarTitleText": "音频课程",
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/book/bootcampHistory",
+            "style": {
+                "navigationBarTitleText": "共读历史",
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/book/bootcampJournals",
+            "style": {
+                "navigationBarTitleText": "我的觉察",
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/book/classDetail",
+            "style": {
+                "navigationBarTitleText": "班级详情",
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/book/dailyTask",
+            "style": {
+                "navigationBarTitleText": "觉察任务",
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/book/editProfile",
+            "style": {
+                "navigationBarTitleText": "编辑个人资料",
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/book/forgotPassword",
+            "style": {
+                "navigationBarTitleText": "忘记密码"
+            }
+        },
+        {
+            "path": "pages/book/growthCalendar",
+            "style": {
+                "navigationBarTitleText": "成长日历",
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/book/home",
+            "style": {
+                "navigationBarTitleText": "首页",
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/book/homeVisitor",
+            "style": {
+                "navigationBarTitleText": "首页-游客模式",
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/book/journal",
+            "style": {
+                "navigationBarTitleText": "我的日记",
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/book/journalDetail",
+            "style": {
+                "navigationBarTitleText": "我的日记详情",
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/book/liveMeeting",
+            "style": {
+                "navigationBarTitleText": "直播",
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/book/membership",
+            "style": {
+                "navigationBarTitleText": "会员中心",
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/book/plaza",
+            "style": {
+                "navigationBarTitleText": "班级广场",
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/book/profile",
+            "style": {
+                "navigationBarTitleText": "我的",
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/book/register",
+            "style": {
+                "navigationBarTitleText": "注册",
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/book/report",
+            "style": {
+                "navigationBarTitleText": "成长报告",
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/book/settings",
+            "style": {
+                "navigationBarTitleText": "设置",
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/book/writeJournal",
+            "style": {
+                "navigationBarTitleText": "写日记",
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/book/help",
+            "style": {
+                "navigationBarTitleText": "帮助",
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/agreement/agreement",
+            "style": {
+                "navigationBarTitleText": "协议",
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/change_password/change_password",
+            "style": {
+                "navigationBarTitleText": "修改密码"
+            },
+            "auth": true
+        },
+        {
+            "path": "pages/user_data/user_data",
+            "style": {
+                "navigationBarTitleText": "个人资料",
+                "navigationStyle": "custom"
+            },
+            "auth": true
+        },
+        {
+            "path": "pages/webview/webview"
+        },
+        {
+            "path": "pages/bind_mobile/bind_mobile",
+            "style": {
+                "navigationBarTitleText": "绑定手机号",
+                "navigationStyle": "custom"
+            },
+            "auth": true
+        },
+        
+        {
+            "path": "pages/listenbook/pages/mine/index",
+            "style": {
+                "navigationBarTitleText": "我的",
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/listenbook/pages/mine/historylist",
+            "style": {
+                "navigationBarTitleText": "我的历史",
+                "navigationStyle": "custom"
+            },
+            "auth": true
+        },
+        {
+            "path": "pages/listenbook/pages/mine/sncode-echange",
+            "style": {
+                "navigationBarTitleText": "券码兑换",
+                "navigationStyle": "custom"
+            },
+            "auth": true
+        },
+        {
+            "path": "pages/listenbook/pages/system/setting",
+            "style": {
+                "navigationBarTitleText": "隐私相关",
+                "navigationStyle": "custom"
+            }
+        },
+        {
+            "path": "pages/listenbook/pages/player/index",
+            "style": {
+                "navigationBarTitleText": "开始阅读",
+                "navigationStyle": "custom"
+            },
+            "auth": true
+        },
+        {
+            "path": "pages/listenbook/pages/chapter/detail",
+            "style": {
+                "navigationBarTitleText": "章节",
+                "navigationStyle": "custom"
+            },
+            "auth": true
+        },
+        {
+            "path": "pages/listenbook/pages/mine/studycenter",
+            "style": {
+                "navigationBarTitleText": "学习中心",
+                "navigationStyle": "custom"
+            },
+            "auth": true
+        },
+        {
+			"path": "pages/listenbook/pages/editorInChief/index",
+			"style": {
+				"navigationBarTitleText": "主编",
+				"navigationStyle": "custom"
+			},
+            "auth": true
+		},
+        {
+			"path": "pages/listenbook/pages/shop/buybook",
+			"style": {
+				"navigationBarTitleText": "书籍购买",
+				"navigationStyle": "custom"
+			},
+            "auth": true
+		},
+		{
+			"path": "pages/listenbook/pages/order/list",
+			"style": {
+				"navigationBarTitleText": "订单记录",
+                "navigationStyle": "custom"
+			},
+            "auth": true
+		},
+        {
+            "path": "uni_modules/vk-uview-ui/components/u-avatar-cropper/u-avatar-cropper",
+            "style": {
+                "navigationBarTitleText": "头像裁剪",
+                "navigationBarBackgroundColor": "#000000"
+            }
+        },
+		
+		{
+			"path": "pages/mood-check/mood-check",
+			"style": {
+				"navigationBarTitleText": "情绪打卡",
+				"navigationStyle": "custom"
+			},
+            "auth": true
+		},
+		{
+			"path": "pages/journal/journal-list",
+			"style": {
+				"navigationBarTitleText": "觉察日记",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/journal/journal-editor",
+			"style": {
+				"navigationBarTitleText": "编辑日记",
+				"navigationStyle": "custom"
+			},
+            "auth": true
+		},
+		{
+			"path": "pages/journal/journal-detail",
+			"style": {
+				"navigationBarTitleText": "我的成长日记",
+				"navigationStyle": "custom"
+			},
+            "auth": true
+		},
+		
+		{
+			"path": "pages/mood-trends/mood-trends",
+			"style": {
+				"navigationBarTitleText": "情绪趋势",
+				"navigationStyle": "custom"
+			},
+            "auth": true
+		},
+		{
+			"path": "pages/growth-report/growth-report",
+			"style": {
+				"navigationBarTitleText": "成长报告",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/chialt/chat",
+			"style": {
+				"navigationStyle": "custom"
+			}
+			
+		},
+		{
+			"path": "pages/chialt/components/lucky-draw",
+			"style": {
+				"navigationStyle": "custom"
+			}
+			
+		},
+		{
+			"path": "pages/welcome/welcome",
+			"style": {
+				"navigationStyle": "custom"
+			}
+			
+		}
+    ],
+	"subPackages": [{
+		"root": "packages",
+		"pages": [
+			{
+				"path": "pages/user_wallet/user_wallet",
+				"style": {
+				    "navigationBarTitleText": "我的钱包"
+				},
+				"auth": true
+			},
+	        {
+				"path": "pages/recharge/recharge",
+				"style": {
+				    "navigationBarTitleText": "充值"
+				},
+				"auth": true
+			},
+	        {
+				"path": "pages/recharge_record/recharge_record",
+				"style": {
+				    "navigationBarTitleText": "充值记录"
+				},
+				"auth": true
+			}
+		]
+	}],
+    "globalStyle": {
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "心光年",
+        "navigationBarBackgroundColor": "#FFFFFF",
+        "backgroundColor": "#F8F8F8",
+        "h5": {
+            "navigationStyle": "custom"
+        }
+    },
+    "easycom": {
+        "custom": {
+            "^(?!z-paging-refresh|z-paging-load-more)z-paging(.*)": "z-paging/components/z-paging$1/z-paging$1.vue",
+            "^w-(.*)": "@/components/widgets/$1/$1.vue"
+        }
+    },
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "#6366F1",
+		"borderStyle": "white",
+		"backgroundColor": "#100D2B",
+		"list": [
+            {
+				"pagePath": "pages/listenbook/pages/index/index",
+				"iconPath": "static/tabbar/home.png",
+				"selectedIconPath": "static/tabbar/home-active.png",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabbar/mark.png",
+				"selectedIconPath": "static/tabbar/mark-active.png",
+				"text": "心智打卡"
+			},
+			{
+				"pagePath": "pages/journal/journal-list",
+				"iconPath": "static/tabbar/journal.png",
+				"selectedIconPath": "static/tabbar/journal-active.png",
+				"text": "成长日记"
+			},
+			{
+				"pagePath": "pages/listenbook/pages/mine/index",
+				"iconPath": "static/tabbar/profile.png",
+				"selectedIconPath": "static/tabbar/profile-active.png",
+				"text": "我的"
+			}
+		]
+	}
+}
